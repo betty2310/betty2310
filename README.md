@@ -1,4 +1,4 @@
-# Hey! 👋
+# Hi there! 👋
 
 * 🌱 I'm Huynh Duong Huu!
 
