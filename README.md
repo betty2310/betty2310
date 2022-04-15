@@ -10,7 +10,7 @@
 * 😍 &nbsp;Fun fact: I :heart: :dog:, the green colour of trees 💚 and look up at the sky 💙. 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=5FC397&center=true&lines="Don't+be+a+programmer%EF%BC%8CBe+a+problem+solver.")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=5FC397&center=true&lines="Don't+be+a+programmer%EF%BC%8C+Be+a+problem+solver.")](https://git.io/typing-svg)
 
 ---
 
