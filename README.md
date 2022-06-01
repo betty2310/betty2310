@@ -2,7 +2,7 @@
     <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="img" class="center" align="center" width="100px">
 </p>
 
-# Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="px"> Hi there!
 
 * 🌱 &nbsp;I'm Huynh Duong Huu (Dương Hữu Huynh in Vietnamese)!
 * 🏫 &nbsp;I'm a college student at [Hanoi University Science and Technology](https://www.hust.edu.vn/web/vi/home) 
