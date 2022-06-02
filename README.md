@@ -1,17 +1,11 @@
-<p align="center">
-    <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="img" class="center" align="center" width="100px">
-</p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="px"> Hi there!
+# 👋 Hi there!
 
 * 🌱 &nbsp;I'm Huynh Duong Huu (Dương Hữu Huynh in Vietnamese)!
 * 🏫 &nbsp;I'm a college student at [Hanoi University Science and Technology](https://www.hust.edu.vn/web/vi/home) 
 * 👨‍💻 &nbsp;I’m currently learning PostgreSQL, Rust and a bit Golang.
 * 😍 &nbsp;Fun fact: I :heart: :dog:, the green colour of trees 💚 and look up at the sky 💙. 
 
-<p align="center">
-    <img src="https://github.com/betty2310/file/blob/main/dino.gif?raw=true" alt="img" class="center" align="left" width="80px">
-</p
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=14&color=5FC397&center=true&lines="Don't+be+a+programmer%EF%BC%8C+Be+a+problem+solver.")](https://git.io/typing-svg)
 
