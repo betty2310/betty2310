@@ -15,22 +15,15 @@
 ![](https://raw.githubusercontent.com/betty2310/github-stats-transparent/output/generated/languages.svg)
 ![betty's github stats](https://github-readme-stats.vercel.app/api?username=betty2310&theme=vue&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betty2310&layout=compact&langs_count=10)](https://github.com/betty2310)
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</details>
  
 <details>
   <summary><b>📫 How to reach me</b></summary>
   
   
-  - :octocat: [Github@betty2310](https://github.com/betty2310)
-  - :email: [huynh.dh2310@gmail.com](mailto:huynh.dh2310@gmail.com)
-  - :tv: [Facebook@betty2310](https://facebook.com/betty2310)
+  - :octocat: [github@betty2310](https://github.com/betty2310)
+  - :email: [betty2310@duck.com](mailto:huynh.dh2310@gmail.com)
   - :tv: [Linkedin@betty2310](https://www.linkedin.com/in/betty2310/?_l=en_US)
   
  </details>
