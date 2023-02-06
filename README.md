@@ -1,7 +1,7 @@
 
-# 👋 Hi there!
+# 👋 Hi there! :shipit: :trollface:
 
-* 🌱 &nbsp;I'm Huynh Duong Huu (Dương Hữu Huynh in 🇻🇳 and ズオン・ヒュー・フイン in 🇯🇵)
+* 🌱 &nbsp;I'm Huynh Duong Huu (Dương Hữu Huynh in Viet nam:star: and ズオン・ヒュー・フイン in Japan:japan:)
 * 🏫 &nbsp;I'm a college student at [Hanoi University Science and Technology](https://www.hust.edu.vn/web/vi/home) 
 * 👨‍💻 &nbsp;I’m currently learning Rust and stuff to become a software engineer.
 * ✏️  &nbsp;I like to write about everything. Check out my space on internet [here](http://betty2310.me/docs).
